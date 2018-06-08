@@ -1,0 +1,24 @@
+.nav_wrapper{
+  width: 90px;
+   padding: 20px 10px;
+   background: linear-gradient(0deg,#ff7abe,#ff9770);
+   height: 100vh;
+   box-shadow: 5px 0 5px #999;
+}
+
+.profile_img{
+  width: 70px;
+  height: 70px;
+  background-position: center;
+  border-radius: 100%;
+  background-color: #fff;
+}
+
+.nav_menu{
+  padding-top: 100px;
+  align-content: space-between;
+}
+.nav_menu img{
+  width: 40px;
+  margin: 20px auto;
+}
